@@ -1,0 +1,15 @@
+# Only the files the Streamlit app needs are tracked; everything else stays local.
+/*
+!/.gitignore
+!/app.py
+!/requirements.txt
+!/.streamlit/
+/.streamlit/*
+!/.streamlit/config.toml
+!/inputs/
+/inputs/*
+!/inputs/barometer_variables_latest.csv
+!/data/
+/data/*
+!/data/wvs_wave7_variables.csv
+!/data/latest_countries.csv

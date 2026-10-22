@@ -1,0 +1,41 @@
+"Cluster","Topic","Variable","WVS code","WVS label","Also in barometers","Note","Observations","Countries"
+"Social and gender norms","Politics and leadership","Men make better political leaders than women","D059","Men make better political leaders than women do","Yes","",94579,66
+"Social and gender norms","Rights and freedoms","University is more important for a boy than for a girl","D060","University is more important for a boy than for a girl","Yes","",95792,66
+"Social and gender norms","Work and income","When jobs are scarce men should have more right to a job","C001","Jobs scarce: Men should have more right to a job than women (3 categories)","Yes","",96484,66
+"Social and gender norms","Family and household roles","A woman's most important role is to take care of home and family","D057","Being a housewife just as fulfilling","Yes","Close: being a housewife is just as fulfilling as working for pay",94019,66
+"Social and gender norms","Family and household roles","Family life suffers when the mother works full time","D061","Pre-school child suffers with working mother","Yes","Close: a pre-school child suffers when the mother works",95349,66
+"Social and gender norms","Violence and harassment","Justifiable for a man to beat his wife","F199","Justifiable: For a man to beat his wife","Yes","",93144,64
+"Social and gender norms","Violence and harassment","Justifiable for parents to physically discipline children","F114C","Justifiable: Parents beating children","Yes","",96186,66
+"Social and gender norms","Tolerance and diversity","Would not want as neighbours: people of a different race or ethnicity","A124_02","Neighbours: People of a different race","Yes","",96064,66
+"Social and gender norms","Tolerance and diversity","Would not want as neighbours: immigrants or foreign workers","A124_06","Neighbours: Immigrants/foreign workers","Yes","",95914,66
+"Social and gender norms","Tolerance and diversity","Would not want as neighbours: homosexuals","A124_09","Neighbours: Homosexuals","Yes","",93083,64
+"Social and gender norms","Tolerance and diversity","Immigrants are good or bad for the country","G052","Evaluate the impact of immigrants on the development of [your country]","Yes","Impact of immigrants on the development of the country",94687,66
+"Social and gender norms","Family, sexuality and morality","Abortion is justifiable","F120","Justifiable: Abortion","Yes","",94945,66
+"Social and gender norms","Family, sexuality and morality","Good manners as an important quality to teach a child","A027","Important child qualities: good manners","Yes","",96823,66
+"Social and gender norms","Work and income","Men make better business executives than women","D078","Men make better business executives than women do","No","",95152,66
+"Social and gender norms","Work and income","Problem if a woman earns more than her husband","D066_B","Problem if women have more income than husband (3 categories)","No","",95756,66
+"Social and gender norms","Rights and freedoms","Women have the same rights as men (essential to democracy)","E233","Democracy: Women have the same rights as men.","No","",94804,66
+"Social and gender norms","Discrimination","Racist behaviour in the neighbourhood","H002_04","Frequency in your neighborhood: Racist behavior","No","How frequently racist behaviour occurs in the neighbourhood",91180,65
+"Social and gender norms","Family, sexuality and morality","Homosexuality is justifiable","F118","Justifiable: Homosexuality","No","",89705,63
+"Social and gender norms","Family, sexuality and morality","Divorce is justifiable","F121","Justifiable: Divorce","No","",95291,66
+"Social and gender norms","Family, sexuality and morality","Homosexual couples are as good parents as other couples","D081","Homosexual couples are as good parents as other couples","No","",80761,57
+"Trust","Interpersonal trust","Most people can be trusted","A165","Most people can be trusted","Yes","",95883,66
+"Trust","Interpersonal trust","Trust people you know personally","G007_33_B","Trust: People you know personally (B)","Yes","",96635,66
+"Trust","Interpersonal trust","Trust your family","D001_B","How much do you trust your family (4-point scale)","No","",96888,66
+"Trust","Interpersonal trust","Trust your neighbourhood","G007_18_B","Trust: Your neighborhood (B)","No","",96393,66
+"Trust","Interpersonal trust","Trust people you meet for the first time","G007_34_B","Trust: People you meet for the first time (B)","No","",95859,66
+"Trust","Trust in institutions","Trust in the national government","E069_11","Confidence: The Government","No","",94083,65
+"Trust","Trust in institutions","Trust in parliament","E069_07","Confidence: Parliament","No","",93741,66
+"Trust","Trust in institutions","Trust in political parties","E069_12","Confidence: The Political Parties","No","",93915,66
+"Trust","Trust in institutions","Trust in the police","E069_06","Confidence: The Police","No","",94808,65
+"Trust","Trust in institutions","Trust in the courts","E069_17","Confidence: Justice System/Courts","No","",93709,65
+"Trust","Trust in institutions","Trust in the women's movement","E069_15","Confidence: The Women's Movement","No","",88635,66
+"Participation","Political interest","Interest in politics","E023","Interest in politics","Yes","",96489,66
+"Participation","Political action","Voted in the last national election","E264","Vote in elections: National level","Yes","Close: votes in national elections (always / usually / never)",91808,64
+"Participation","Political action","Attended a demonstration or protest","E027","Political action: attending lawful/peaceful demonstrations","Yes","",94141,66
+"Participation","Political interest","Discusses political matters with friends","A062","How often discusses political matters with friends","No","",96233,66
+"Participation","Political action","Signed a petition","E025","Political action: signing a petition","No","",94030,66
+"Participation","Political action","Joined a boycott","E026","Political action: joining in boycotts","No","",93043,66
+"Participation","Political action","Votes in local elections","E263","Vote in elections: local level","No","",92700,64
+"Participation","Civic participation","Member of a political party","A068","Member: Belong to political parties","No","",95876,66
+"Participation","Civic participation","Member of a women's group","A075","Member: Belong to women's group","No","",94179,66
