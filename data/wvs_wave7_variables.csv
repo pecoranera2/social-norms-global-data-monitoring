@@ -2,8 +2,8 @@
 "Social and gender norms","Politics and leadership","Men make better political leaders than women","D059","Men make better political leaders than women do","Yes","",94579,66
 "Social and gender norms","Rights and freedoms","University is more important for a boy than for a girl","D060","University is more important for a boy than for a girl","Yes","",95792,66
 "Social and gender norms","Work and income","When jobs are scarce men should have more right to a job","C001","Jobs scarce: Men should have more right to a job than women (3 categories)","Yes","",96484,66
-"Social and gender norms","Family and household roles","A woman's most important role is to take care of home and family","D057","Being a housewife just as fulfilling","Yes","Close: being a housewife is just as fulfilling as working for pay",94019,66
-"Social and gender norms","Family and household roles","Family life suffers when the mother works full time","D061","Pre-school child suffers with working mother","Yes","Close: a pre-school child suffers when the mother works",95349,66
+"Social and gender norms","Family and household roles","Being a housewife is just as fulfilling as working for pay","D057","Being a housewife just as fulfilling","No","WVS 7 Q32 wording; renamed 2026-10-22 (was matched to Euro qd2_4)",94019,66
+"Social and gender norms","Family and household roles","When a mother works for pay, the children suffer","D061","Pre-school child suffers with working mother","No","WVS 7 Q28 wording; renamed 2026-10-22 (was matched to Euro qd4_1)",95349,66
 "Social and gender norms","Violence and harassment","Justifiable for a man to beat his wife","F199","Justifiable: For a man to beat his wife","Yes","",93144,64
 "Social and gender norms","Violence and harassment","Justifiable for parents to physically discipline children","F114C","Justifiable: Parents beating children","Yes","",96186,66
 "Social and gender norms","Tolerance and diversity","Would not want as neighbours: people of a different race or ethnicity","A124_02","Neighbours: People of a different race","Yes","",96064,66
@@ -24,14 +24,14 @@
 "Trust","Interpersonal trust","Trust your family","D001_B","How much do you trust your family (4-point scale)","No","",96888,66
 "Trust","Interpersonal trust","Trust your neighbourhood","G007_18_B","Trust: Your neighborhood (B)","No","",96393,66
 "Trust","Interpersonal trust","Trust people you meet for the first time","G007_34_B","Trust: People you meet for the first time (B)","No","",95859,66
-"Trust","Trust in institutions","Trust in the national government","E069_11","Confidence: The Government","No","",94083,65
+"Trust","Trust in institutions","Trust in the national government","E069_11","Confidence: The Government","Yes","Also Latinobarometro Q14ST.E (from 2026-10-22)",94083,65
 "Trust","Trust in institutions","Trust in parliament","E069_07","Confidence: Parliament","No","",93741,66
 "Trust","Trust in institutions","Trust in political parties","E069_12","Confidence: The Political Parties","No","",93915,66
 "Trust","Trust in institutions","Trust in the police","E069_06","Confidence: The Police","No","",94808,65
 "Trust","Trust in institutions","Trust in the courts","E069_17","Confidence: Justice System/Courts","No","",93709,65
 "Trust","Trust in institutions","Trust in the women's movement","E069_15","Confidence: The Women's Movement","No","",88635,66
 "Participation","Political interest","Interest in politics","E023","Interest in politics","Yes","",96489,66
-"Participation","Political action","Voted in the last national election","E264","Vote in elections: National level","Yes","Close: votes in national elections (always / usually / never)",91808,64
+"Participation","Political action","Votes in national elections","E264","Vote in elections: National level","No","WVS 7 Q222 (always / usually / never); renamed 2026-10-22 (was matched to Asian q33)",91808,64
 "Participation","Political action","Attended a demonstration or protest","E027","Political action: attending lawful/peaceful demonstrations","Yes","",94141,66
 "Participation","Political interest","Discusses political matters with friends","A062","How often discusses political matters with friends","No","",96233,66
 "Participation","Political action","Signed a petition","E025","Political action: signing a petition","No","",94030,66
