@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Social Norms Global Data Monitoring
+"""Social Norms Global Data Repository
 Latest round of the World Values Survey (wave 7) and five regional barometers:
 social and gender norms, trust and participation.
 Run:  py -m streamlit run app.py
@@ -38,7 +38,7 @@ def lab(s):
     return SRC_LABEL.get(s, s)
 
 
-st.set_page_config(page_title="Social Norms Global Data Monitoring", layout="wide")
+st.set_page_config(page_title="Social Norms Global Data Repository", layout="wide")
 st.markdown(
     f"""
     <style>
@@ -121,7 +121,7 @@ def geo(fig, h=500):
 
 # ------------------------------------------------------------------ pages
 def overview_page():
-    st.title("Social Norms Global Data Monitoring")
+    st.title("Social Norms Global Data Repository")
     st.markdown('<p class="lede">Social and gender norms, trust and participation in the latest round of the '
                 "World Values Survey and five regional barometers.</p>", unsafe_allow_html=True)
 
