@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """Social Norms Global Data Repository
-Latest round of the World Values Survey (wave 7) and five regional barometers:
-social and gender norms, trust and participation.
-Run:  py -m streamlit run app.py
+Run: streamlit run app.py
 """
 import html
 import os
@@ -15,7 +13,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 INPUTS = os.path.join(HERE, "inputs")
 
-# ---- palette / type (same family as the Cross-Barometer Variable Mapping dashboard)
+# colours and font
 COL_INK, COL_INK2, COL_MUTED = "#0b0b0b", "#52514e", "#6b6a63"
 COL_SURFACE, COL_LAND, COL_LINE = "#fcfcfb", "#eeede8", "#e1e0d9"
 FONT = "Georgia, 'Times New Roman', Times, serif"
@@ -90,8 +88,7 @@ def load(path):
     return _read(path, _mtime(path))
 
 
-# Barometers: curated latest-round list (inputs/barometer_variables_latest.csv, from the Map of Variables workbook).
-# WVS: wave 7 list exported by WVS_wave7_variables/wvs_wave7_variables.R.
+# variable lists
 bar = load(os.path.join(INPUTS, "barometer_variables_latest.csv"))
 wvs = load(os.path.join(DATA, "wvs_wave7_variables.csv")).rename(
     columns={"Cluster": "cluster", "Topic": "topic", "Variable": "variable"})
@@ -119,7 +116,7 @@ def geo(fig, h=500):
     return fig
 
 
-# ------------------------------------------------------------------ pages
+# pages
 def overview_page():
     st.title("Social Norms Global Data Repository")
     st.markdown('<p class="lede">Social and gender norms, trust and participation in the latest round of the '
@@ -229,7 +226,7 @@ def clusters_page():
         st.markdown("".join(parts), unsafe_allow_html=True)
 
 
-# Shown at the end of the Overview page.
+# overview notes
 NOTES = """
 - **Latest round only.** World Values Survey wave 7 (2017-2023); Arab Barometer wave 8 (2024); Afrobarometer
   round 9 (2023); Asian Barometer wave 6 (2021-2023); Latinobarómetro 2024; Eurobarometer: Special EB on gender

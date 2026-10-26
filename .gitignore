@@ -1,4 +1,4 @@
-# Only the files the Streamlit app needs are tracked; everything else stays local.
+# app files only
 /*
 !/.gitignore
 !/app.py

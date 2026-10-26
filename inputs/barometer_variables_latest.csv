@@ -1,19 +1,19 @@
 cluster,topic,variable,source,code,round,note
 Social and gender norms,Politics and leadership,Men make better political leaders than women,Arab Barometer,Q601.3,Wave 8 (2024),
 Social and gender norms,Politics and leadership,Men make better political leaders than women,Afrobarometer,Q20,Round 9 (2023),
-Social and gender norms,Politics and leadership,Women should not be involved in politics as much as men,Asian Barometer,q146,Wave 6 (2021-2023),Own line with the W6 wording (was matched to 'men make better political leaders'); 2026-10-26
+Social and gender norms,Politics and leadership,Women should not be involved in politics as much as men,Asian Barometer,q146,Wave 6 (2021-2023),
 Social and gender norms,Politics and leadership,Men make better political leaders than women,Eurobarometer,qd7_1,Special EB Gender Stereotypes (2024),
 Social and gender norms,Politics and leadership,Seats in parliament / cabinet reserved for women,Arab Barometer,Q601,Wave 8 (2024),
 Social and gender norms,Politics and leadership,Women in political leadership advance women's rights,Arab Barometer,Q631,Wave 8 (2024),
 Social and gender norms,Politics and leadership,Perceived share of citizens who think men are better leaders,Arab Barometer,Q630,Wave 8 (2024),
-Social and gender norms,Politics and leadership,Experience of women who run for office,Afrobarometer,"Q50a, Q50b, Q50c",Round 9 (2023),"Gain standing, criticised or harassed, family problems"
+Social and gender norms,Politics and leadership,Experience of women who run for office,Afrobarometer,"Q50a, Q50b, Q50c",Round 9 (2023),"gain standing, criticised, family problems"
 Social and gender norms,Work and income,Men and women should have equal work opportunities,Arab Barometer,Q601.5,Wave 8 (2024),
-Social and gender norms,Work and income,"In the country today, women and men have equal opportunities to get a paid job",Afrobarometer,Q49a,Round 9 (2023),Codebook wording (perception); was matched to Arab Q601.5 'should have equal work opportunities'; 2026-10-26
+Social and gender norms,Work and income,"In the country today, women and men have equal opportunities to get a paid job",Afrobarometer,Q49a,Round 9 (2023),perception
 Social and gender norms,Work and income,When jobs are scarce men should have more right to a job,Afrobarometer,Q21a,Round 9 (2023),
 Social and gender norms,Work and income,Main barrier to women's entry into the workplace,Arab Barometer,Q622C,Wave 8 (2024),
 Social and gender norms,Family and household roles,A man should have the final say in family decisions,Arab Barometer,Q601,Wave 8 (2024),
 Social and gender norms,Family and household roles,Men and women should have an equal say in family decisions,Arab Barometer,Q601,Wave 8 (2024),
-Social and gender norms,Family and household roles,Who should be responsible for household tasks,Arab Barometer,Q624,Wave 8 (2024),Workbook also lists Q624 under 'who decides how money is used'; question text is about household tasks
+Social and gender norms,Family and household roles,Who should be responsible for household tasks,Arab Barometer,Q624,Wave 8 (2024),2024: food spending decisions only
 Social and gender norms,Family and household roles,Who decides how money is used in the household,Afrobarometer,Q93C,Round 9 (2023),
 Social and gender norms,Family and household roles,Biggest problem with childcare options,Arab Barometer,Q626,Wave 8 (2024),
 Social and gender norms,Family and household roles,A woman's most important role is to take care of home and family,Eurobarometer,qd2_4,Special EB Gender Stereotypes (2024),
@@ -23,43 +23,43 @@ Social and gender norms,Family and household roles,Taking parental leave is enri
 Social and gender norms,Family and household roles,Men are naturally less competent at household tasks,Eurobarometer,qd4_3,Special EB Gender Stereotypes (2024),
 Social and gender norms,Family and household roles,Son preference if one could have only one child,Asian Barometer,q67,Wave 6 (2021-2023),
 Social and gender norms,Family and household roles,Children belong more to the mother's or the father's side,Afrobarometer,Q85b,Round 9 (2023),
-Social and gender norms,Family and household roles,Having children as a life goal,Latinobarometro,Q2NOIJ,2024,Life goals of young people today: having children
-Social and gender norms,Family and household roles,Husband should persuade his wife to obey his mother,Asian Barometer,q61,Wave 6 (2021-2023),Mother-in-law and daughter-in-law conflict
+Social and gender norms,Family and household roles,Having children as a life goal,Latinobarometro,Q2NOIJ,2024,youth life goals
+Social and gender norms,Family and household roles,Husband should persuade his wife to obey his mother,Asian Barometer,q61,Wave 6 (2021-2023),mother-in-law conflict
 Social and gender norms,Gender stereotypes,It is acceptable for men to cry,Eurobarometer,qd2_1,Special EB Gender Stereotypes (2024),
 Social and gender norms,Gender stereotypes,Women are more likely to make decisions based on emotions,Eurobarometer,qd2_2,Special EB Gender Stereotypes (2024),
 Social and gender norms,Rights and freedoms,University is more important for a boy than for a girl,Arab Barometer,Q601.4,Wave 8 (2024),
-Social and gender norms,Rights and freedoms,Women's say over whom they marry,Arab Barometer,Q601,Wave 8 (2024),Can reject a marriage chosen by the family; equal say in whom to marry
+Social and gender norms,Rights and freedoms,Women's say over whom they marry,Arab Barometer,Q601,Wave 8 (2024),reject family choice; equal say
 Social and gender norms,Rights and freedoms,Who has more freedom of choice in personal matters,Arab Barometer,Q628,Wave 8 (2024),
-Social and gender norms,Rights and freedoms,Women should have the same rights as men to own and inherit land,Afrobarometer,Q21b,Round 9 (2023),Codebook wording; split from the combined land line on 2026-10-26
-Social and gender norms,Rights and freedoms,"In the country today, women and men have equal opportunities to own and inherit land",Afrobarometer,Q49b,Round 9 (2023),Codebook wording (perception); split from the combined land line on 2026-10-26
+Social and gender norms,Rights and freedoms,Women should have the same rights as men to own and inherit land,Afrobarometer,Q21b,Round 9 (2023),
+Social and gender norms,Rights and freedoms,"In the country today, women and men have equal opportunities to own and inherit land",Afrobarometer,Q49b,Round 9 (2023),perception
 Social and gender norms,Rights and freedoms,Government should do more for women's rights,Afrobarometer,Q51a,Round 9 (2023),
 Social and gender norms,Rights and freedoms,Most important women's rights issue,Afrobarometer,Q51b,Round 9 (2023),
-Social and gender norms,Rights and freedoms,Government handling of equal rights and opportunities for women,Afrobarometer,Q46n,Round 9 (2023),Codebook wording; renamed 2026-10-26
+Social and gender norms,Rights and freedoms,Government handling of equal rights and opportunities for women,Afrobarometer,Q46n,Round 9 (2023),
 Social and gender norms,Rights and freedoms,Gender issues named as the most important problem,Afrobarometer,Q45pt1,Round 9 (2023),
 Social and gender norms,Rights and freedoms,Gender issues named as the most important problem,Asian Barometer,q97,Wave 6 (2021-2023),
 Social and gender norms,Rights and freedoms,Gender issues named as the most important problem,Latinobarometro,p5stgbs,2024,
 Social and gender norms,Violence and harassment,Justifiable for a man to beat his wife,Afrobarometer,Q52b,Round 9 (2023),
 Social and gender norms,Violence and harassment,Justifiable for parents to physically discipline children,Afrobarometer,Q52a,Round 9 (2023),
 Social and gender norms,Violence and harassment,How often adults use physical discipline with children,Afrobarometer,Q55a,Round 9 (2023),
-Social and gender norms,Violence and harassment,Prevalence of violence against women,Arab Barometer,Q625,Wave 8 (2024),Increased or decreased in the past 12 months
+Social and gender norms,Violence and harassment,Prevalence of violence against women,Arab Barometer,Q625,Wave 8 (2024),change in last 12 months
 Social and gender norms,Violence and harassment,Prevalence of violence against women,Afrobarometer,Q53a,Round 9 (2023),
-Social and gender norms,Violence and harassment,Prevalence of violence against women,Latinobarometro,Q48ST,2024,Domestic violence as the most frequent type of violence
+Social and gender norms,Violence and harassment,Prevalence of violence against women,Latinobarometro,Q48ST,2024,most frequent violence: domestic
 Social and gender norms,Violence and harassment,Harassment of women is widespread,Arab Barometer,Q627,Wave 8 (2024),
 Social and gender norms,Violence and harassment,Women who report violence are taken seriously or criticised,Afrobarometer,"Q53b, Q53c",Round 9 (2023),
 Social and gender norms,Violence and harassment,Domestic violence: private or criminal matter,Afrobarometer,Q54,Round 9 (2023),
 Social and gender norms,Violence and harassment,Where a woman facing abuse can get help,Arab Barometer,Q629,Wave 8 (2024),
 Social and gender norms,Discrimination,Personally felt discriminated against,Arab Barometer,Q882,Wave 8 (2024),
-Social and gender norms,Discrimination,Personally felt discriminated against,Eurobarometer,qb2_1 to qb2_11,Special EB Discrimination (2023),"By ground: gender, ethnic origin, sexual orientation, age, religion, disability, etc."
-Social and gender norms,Discrimination,Discrimination because of gender,Arab Barometer,Q873,Wave 8 (2024),People in the country face discrimination because of gender
-Social and gender norms,Discrimination,Discrimination because of gender,Eurobarometer,qb2_1,Special EB Discrimination (2023),Personally discriminated against on the grounds of gender
+Social and gender norms,Discrimination,Personally felt discriminated against,Eurobarometer,qb2_1 to qb2_11,Special EB Discrimination (2023),by ground
+Social and gender norms,Discrimination,Discrimination because of gender,Arab Barometer,Q873,Wave 8 (2024),people in the country
+Social and gender norms,Discrimination,Discrimination because of gender,Eurobarometer,qb2_1,Special EB Discrimination (2023),personal experience
 Social and gender norms,Discrimination,"Most widespread form, circumstances and reasons of discrimination",Arab Barometer,"Q879, Q881A, Q883",Wave 8 (2024),
 Social and gender norms,Discrimination,Government should do more against discrimination,Arab Barometer,Q885,Wave 8 (2024),
 Social and gender norms,Discrimination,Ethnic group treated unfairly by the government,Afrobarometer,Q84b,Round 9 (2023),
-Social and gender norms,Discrimination,Ethnic group treated unfairly by the government,Asian Barometer,q103,Wave 6 (2021-2023),Close: ethnic communities are treated fairly
-Social and gender norms,Tolerance and diversity,"Would not want as neighbours: people of a different race or ethnicity, immigrants or foreign workers, homosexuals",Afrobarometer,"Q87b, Q87d, Q87c",Round 9 (2023),"Three items merged into one line (Natalia, 2026-10-26)"
-Social and gender norms,Tolerance and diversity,"Would not want as neighbours: people of a different race or ethnicity, immigrants or foreign workers, homosexuals",Latinobarometro,Q3NOIJ,2024,"P3NOIJ.1, P3NOIJ.2, P3NOIJ.3 in the data; three items merged into one line (Natalia, 2026-10-26)"
+Social and gender norms,Discrimination,Ethnic group treated unfairly by the government,Asian Barometer,q103,Wave 6 (2021-2023),close
+Social and gender norms,Tolerance and diversity,"Would not want as neighbours: people of a different race or ethnicity, immigrants or foreign workers, homosexuals",Afrobarometer,"Q87b, Q87d, Q87c",Round 9 (2023),
+Social and gender norms,Tolerance and diversity,"Would not want as neighbours: people of a different race or ethnicity, immigrants or foreign workers, homosexuals",Latinobarometro,Q3NOIJ,2024,P3NOIJ.1-3
 Social and gender norms,Tolerance and diversity,OK for a family member to marry someone of another ethnic group,Afrobarometer,Q88a,Round 9 (2023),
-Social and gender norms,Tolerance and diversity,"Has friends of a different ethnic origin, religion or sexual orientation",Eurobarometer,"qsd4_1, qsd4_6, qsd4_4",Special EB Discrimination (2023),"Summary of three items: ethnic origin (qsd4_1), religion (qsd4_6), lesbian/gay/bisexual (qsd4_4); workbook lists qsd4_1"
+Social and gender norms,Tolerance and diversity,"Has friends of a different ethnic origin, religion or sexual orientation",Eurobarometer,"qsd4_1, qsd4_6, qsd4_4",Special EB Discrimination (2023),"ethnic origin, religion, LGB"
 Social and gender norms,Tolerance and diversity,Immigrants are good or bad for the country,Latinobarometro,Q34ST,2024,
 Social and gender norms,"Family, sexuality and morality",Abortion is justifiable,Latinobarometro,Q7NOIJ,2024,
 Social and gender norms,"Family, sexuality and morality",Good manners as an important quality to teach a child,Latinobarometro,Q4NOIJ,2024,
@@ -81,49 +81,49 @@ Trust,Trust in institutions,Trust in the president or prime minister,Asian Barom
 Trust,Trust in institutions,Trust in the president or prime minister,Latinobarometro,p14st_i,2024,
 Trust,Trust in institutions,Trust in local government,Afrobarometer,Q37d,Round 9 (2023),
 Trust,Trust in institutions,Trust in local government,Asian Barometer,q15,Wave 6 (2021-2023),
-Trust,Trust in institutions,Trust in the national government,Latinobarometro,p14st_e,2024,"Q14ST.E 'The National Government' (P14ST.E in the data); workbook labels it local government; renamed 2026-10-22"
-Trust,Interpersonal trust,Trust your family,Afrobarometer,Q86b,Round 9 (2023),"Trust relatives; not in the workbook, added from the raw data to match WVS (2026-10-26)"
-Trust,Interpersonal trust,Trust your family,Asian Barometer,q24,Wave 6 (2021-2023),"Trust your relatives; not in the workbook, added from the raw data to match WVS (2026-10-26)"
-Trust,Interpersonal trust,Trust your neighbourhood,Afrobarometer,Q86c,Round 9 (2023),"Trust neighbours; not in the workbook, added from the raw data to match WVS (2026-10-26)"
-Trust,Interpersonal trust,Trust your neighbourhood,Asian Barometer,q25,Wave 6 (2021-2023),"Trust your neighbors; not in the workbook, added from the raw data to match WVS (2026-10-26)"
-Trust,Interpersonal trust,Trust people you meet for the first time,Asian Barometer,q27,Wave 6 (2021-2023),"Not in the workbook, added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the national government,Arab Barometer,Q201A_1,Wave 8 (2024),"Government (Council of Ministers); 7 of 8 countries; not in the workbook, added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the national government,Asian Barometer,q9,Wave 6 (2021-2023),"National government in the capital city; not in the workbook, added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in parliament,Arab Barometer,Q201A_3,Wave 8 (2024),"Elected council of representatives (parliament); 6 of 8 countries; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in parliament,Afrobarometer,Q37b,Round 9 (2023),"Parliament/national assembly; 35 of 39 countries; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in parliament,Asian Barometer,q11,Wave 6 (2021-2023),"Added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in parliament,Latinobarometro,P14ST.D,2024,"Congreso/Parlamento; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in political parties,Asian Barometer,q10,Wave 6 (2021-2023),"Political parties (not any specific party); added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in political parties,Latinobarometro,P14ST.G,2024,"Partidos políticos; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the police,Arab Barometer,Q201B_4,Wave 8 (2024),"7 of 8 countries; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the police,Afrobarometer,Q37g,Round 9 (2023),"Added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the police,Asian Barometer,q14,Wave 6 (2021-2023),"Added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the police,Latinobarometro,P14STGBS.B,2024,"Policía; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the courts,Arab Barometer,Q201A_2,Wave 8 (2024),"Courts and legal system; 7 of 8 countries; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the courts,Afrobarometer,Q37i,Round 9 (2023),"Courts of law; added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the courts,Asian Barometer,q8,Wave 6 (2021-2023),"Added from the raw data to match WVS (2026-10-26)"
-Trust,Trust in institutions,Trust in the courts,Latinobarometro,P14ST.F,2024,"Poder Judicial; added from the raw data to match WVS (2026-10-26)"
-Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Latinobarometro,p12stgbs_a,2024,"Q12STGBS.A (P12STGBS.A in the data); orange in Clusters LATINO; added 2026-10-26"
-Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Eurobarometer,sd18a,Special EB Gender Stereotypes (2024),"SD18a; orange in Clusters Euro (2024 column); added 2026-10-26"
-Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Afrobarometer,Q31,Round 9 (2023),"Extra answer option: country is not a democracy; added 2026-10-26 (Natalia)"
-Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Asian Barometer,q90,Wave 6 (2021-2023),"Added 2026-10-26 (Natalia)"
+Trust,Trust in institutions,Trust in the national government,Latinobarometro,p14st_e,2024,P14ST.E; national government
+Trust,Interpersonal trust,Trust your family,Afrobarometer,Q86b,Round 9 (2023),relatives; not in workbook
+Trust,Interpersonal trust,Trust your family,Asian Barometer,q24,Wave 6 (2021-2023),relatives; not in workbook
+Trust,Interpersonal trust,Trust your neighbourhood,Afrobarometer,Q86c,Round 9 (2023),neighbours; not in workbook
+Trust,Interpersonal trust,Trust your neighbourhood,Asian Barometer,q25,Wave 6 (2021-2023),neighbours; not in workbook
+Trust,Interpersonal trust,Trust people you meet for the first time,Asian Barometer,q27,Wave 6 (2021-2023),not in workbook
+Trust,Trust in institutions,Trust in the national government,Arab Barometer,Q201A_1,Wave 8 (2024),Council of Ministers; 7/8 countries; not in workbook
+Trust,Trust in institutions,Trust in the national government,Asian Barometer,q9,Wave 6 (2021-2023),national government; not in workbook
+Trust,Trust in institutions,Trust in parliament,Arab Barometer,Q201A_3,Wave 8 (2024),6/8 countries; not in workbook
+Trust,Trust in institutions,Trust in parliament,Afrobarometer,Q37b,Round 9 (2023),35/39 countries; not in workbook
+Trust,Trust in institutions,Trust in parliament,Asian Barometer,q11,Wave 6 (2021-2023),not in workbook
+Trust,Trust in institutions,Trust in parliament,Latinobarometro,P14ST.D,2024,not in workbook
+Trust,Trust in institutions,Trust in political parties,Asian Barometer,q10,Wave 6 (2021-2023),not in workbook
+Trust,Trust in institutions,Trust in political parties,Latinobarometro,P14ST.G,2024,not in workbook
+Trust,Trust in institutions,Trust in the police,Arab Barometer,Q201B_4,Wave 8 (2024),7/8 countries; not in workbook
+Trust,Trust in institutions,Trust in the police,Afrobarometer,Q37g,Round 9 (2023),not in workbook
+Trust,Trust in institutions,Trust in the police,Asian Barometer,q14,Wave 6 (2021-2023),not in workbook
+Trust,Trust in institutions,Trust in the police,Latinobarometro,P14STGBS.B,2024,not in workbook
+Trust,Trust in institutions,Trust in the courts,Arab Barometer,Q201A_2,Wave 8 (2024),7/8 countries; not in workbook
+Trust,Trust in institutions,Trust in the courts,Afrobarometer,Q37i,Round 9 (2023),not in workbook
+Trust,Trust in institutions,Trust in the courts,Asian Barometer,q8,Wave 6 (2021-2023),not in workbook
+Trust,Trust in institutions,Trust in the courts,Latinobarometro,P14ST.F,2024,not in workbook
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Latinobarometro,p12stgbs_a,2024,P12STGBS.A
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Eurobarometer,sd18a,Special EB Gender Stereotypes (2024),
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Afrobarometer,Q31,Round 9 (2023),includes 'not a democracy'
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Asian Barometer,q90,Wave 6 (2021-2023),
 Participation,Political interest,Interest in politics,Arab Barometer,Q404,Wave 8 (2024),
 Participation,Political interest,Interest in politics,Afrobarometer,Q8,Round 9 (2023),
 Participation,Political interest,Interest in politics,Asian Barometer,q47,Wave 6 (2021-2023),
 Participation,Political interest,Interest in politics,Latinobarometro,P36STGBS,2024,
-Participation,Political interest,Interest in politics,Eurobarometer,polintr_1,Special EB Gender Stereotypes (2024),Code from the Clusters Euro sheet
+Participation,Political interest,Interest in politics,Eurobarometer,polintr_1,Special EB Gender Stereotypes (2024),Clusters Euro sheet
 Participation,Political action,Voted in the last national election,Asian Barometer,q33,Wave 6 (2021-2023),
 Participation,Political action,Attended a demonstration or protest,Asian Barometer,q76,Wave 6 (2021-2023),
 Participation,Political action,Contacted elected officials,Asian Barometer,q68,Wave 6 (2021-2023),
-Participation,Political action,Attended a demonstration or protest,Afrobarometer,Q10C,Round 9 (2023),Workbook lists Q10C as freedom to protest; the question is whether the respondent attended (2026-10-22)
-Participation,Political action,Attended a community meeting,Afrobarometer,Q10A,Round 9 (2023),Not in the workbook; added from the raw data (2026-10-22)
-Participation,Political action,Joined others to raise an issue,Afrobarometer,Q10B,Round 9 (2023),Not in the workbook; added from the raw data (2026-10-22)
+Participation,Political action,Attended a demonstration or protest,Afrobarometer,Q10C,Round 9 (2023),"attendance, not freedom"
+Participation,Political action,Attended a community meeting,Afrobarometer,Q10A,Round 9 (2023),not in workbook
+Participation,Political action,Joined others to raise an issue,Afrobarometer,Q10B,Round 9 (2023),not in workbook
 Participation,Civic participation,Got together with others to solve local problems,Asian Barometer,q75,Wave 6 (2021-2023),
-Participation,Civic participation,Joined an association or campaign against discrimination,Eurobarometer,qb5_3,Special EB Discrimination (2023),Code from the Clusters Euro sheet; actions against discrimination in the last 12 months
+Participation,Civic participation,Joined an association or campaign against discrimination,Eurobarometer,qb5_3,Special EB Discrimination (2023),Clusters Euro sheet
 Participation,Freedom to participate,Freedom to participate in protests,Arab Barometer,Q521.2,Wave 8 (2024),
-Participation,Freedom to participate,Freedom to say what you think,Afrobarometer,Q9a,Round 9 (2023),Workbook lists it as freedom of speech (Institutional); added at Natalia's request (2026-10-22)
-Participation,Freedom to participate,Freedom to say what you think,Arab Barometer,Q521_1,Wave 8 (2024),Close: freedom to express opinions (how far guaranteed); workbook Q521.1 under freedom of speech; added 2026-10-22
-Participation,Freedom to participate,Freedom to say what you think,Asian Barometer,q106,Wave 6 (2021-2023),Close: people are free to speak what they think without fear (agree/disagree); workbook freedom of speech; added 2026-10-22
+Participation,Freedom to participate,Freedom to say what you think,Afrobarometer,Q9a,Round 9 (2023),
+Participation,Freedom to participate,Freedom to say what you think,Arab Barometer,Q521_1,Wave 8 (2024),close
+Participation,Freedom to participate,Freedom to say what you think,Asian Barometer,q106,Wave 6 (2021-2023),close
 Participation,Freedom to participate,Freedom to join political organisations,Afrobarometer,Q9b,Round 9 (2023),
 Participation,Freedom to participate,Freedom to join political organisations,Asian Barometer,q107,Wave 6 (2021-2023),
 Participation,Freedom to participate,Freedom to choose whom to vote for,Afrobarometer,Q9c,Round 9 (2023),
