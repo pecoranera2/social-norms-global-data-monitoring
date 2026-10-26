@@ -1,14 +1,14 @@
 cluster,topic,variable,source,code,round,note
 Social and gender norms,Politics and leadership,Men make better political leaders than women,Arab Barometer,Q601.3,Wave 8 (2024),
 Social and gender norms,Politics and leadership,Men make better political leaders than women,Afrobarometer,Q20,Round 9 (2023),
-Social and gender norms,Politics and leadership,Men make better political leaders than women,Asian Barometer,q146,Wave 6 (2021-2023),Close: women should not be involved in politics as much as men
+Social and gender norms,Politics and leadership,Women should not be involved in politics as much as men,Asian Barometer,q146,Wave 6 (2021-2023),Own line with the W6 wording (was matched to 'men make better political leaders'); 2026-10-26
 Social and gender norms,Politics and leadership,Men make better political leaders than women,Eurobarometer,qd7_1,Special EB Gender Stereotypes (2024),
 Social and gender norms,Politics and leadership,Seats in parliament / cabinet reserved for women,Arab Barometer,Q601,Wave 8 (2024),
 Social and gender norms,Politics and leadership,Women in political leadership advance women's rights,Arab Barometer,Q631,Wave 8 (2024),
 Social and gender norms,Politics and leadership,Perceived share of citizens who think men are better leaders,Arab Barometer,Q630,Wave 8 (2024),
 Social and gender norms,Politics and leadership,Experience of women who run for office,Afrobarometer,"Q50a, Q50b, Q50c",Round 9 (2023),"Gain standing, criticised or harassed, family problems"
 Social and gender norms,Work and income,Men and women should have equal work opportunities,Arab Barometer,Q601.5,Wave 8 (2024),
-Social and gender norms,Work and income,Men and women should have equal work opportunities,Afrobarometer,Q49a,Round 9 (2023),Equal chance of a paying job
+Social and gender norms,Work and income,"In the country today, women and men have equal opportunities to get a paid job",Afrobarometer,Q49a,Round 9 (2023),Codebook wording (perception); was matched to Arab Q601.5 'should have equal work opportunities'; 2026-10-26
 Social and gender norms,Work and income,When jobs are scarce men should have more right to a job,Afrobarometer,Q21a,Round 9 (2023),
 Social and gender norms,Work and income,Main barrier to women's entry into the workplace,Arab Barometer,Q622C,Wave 8 (2024),
 Social and gender norms,Family and household roles,A man should have the final say in family decisions,Arab Barometer,Q601,Wave 8 (2024),
@@ -30,10 +30,11 @@ Social and gender norms,Gender stereotypes,Women are more likely to make decisio
 Social and gender norms,Rights and freedoms,University is more important for a boy than for a girl,Arab Barometer,Q601.4,Wave 8 (2024),
 Social and gender norms,Rights and freedoms,Women's say over whom they marry,Arab Barometer,Q601,Wave 8 (2024),Can reject a marriage chosen by the family; equal say in whom to marry
 Social and gender norms,Rights and freedoms,Who has more freedom of choice in personal matters,Arab Barometer,Q628,Wave 8 (2024),
-Social and gender norms,Rights and freedoms,Women's equal right to own or inherit land,Afrobarometer,"Q21b, Q49b",Round 9 (2023),
+Social and gender norms,Rights and freedoms,Women should have the same rights as men to own and inherit land,Afrobarometer,Q21b,Round 9 (2023),Codebook wording; split from the combined land line on 2026-10-26
+Social and gender norms,Rights and freedoms,"In the country today, women and men have equal opportunities to own and inherit land",Afrobarometer,Q49b,Round 9 (2023),Codebook wording (perception); split from the combined land line on 2026-10-26
 Social and gender norms,Rights and freedoms,Government should do more for women's rights,Afrobarometer,Q51a,Round 9 (2023),
 Social and gender norms,Rights and freedoms,Most important women's rights issue,Afrobarometer,Q51b,Round 9 (2023),
-Social and gender norms,Rights and freedoms,Government performance promoting gender equality,Afrobarometer,Q46n,Round 9 (2023),
+Social and gender norms,Rights and freedoms,Government handling of equal rights and opportunities for women,Afrobarometer,Q46n,Round 9 (2023),Codebook wording; renamed 2026-10-26
 Social and gender norms,Rights and freedoms,Gender issues named as the most important problem,Afrobarometer,Q45pt1,Round 9 (2023),
 Social and gender norms,Rights and freedoms,Gender issues named as the most important problem,Asian Barometer,q97,Wave 6 (2021-2023),
 Social and gender norms,Rights and freedoms,Gender issues named as the most important problem,Latinobarometro,p5stgbs,2024,
@@ -85,6 +86,8 @@ Trust,Trust in institutions,Trust in the president or prime minister,Latinobarom
 Trust,Trust in institutions,Trust in local government,Afrobarometer,Q37d,Round 9 (2023),
 Trust,Trust in institutions,Trust in local government,Asian Barometer,q15,Wave 6 (2021-2023),
 Trust,Trust in institutions,Trust in the national government,Latinobarometro,p14st_e,2024,"Q14ST.E 'The National Government' (P14ST.E in the data); workbook labels it local government; renamed 2026-10-22"
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Latinobarometro,p12stgbs_a,2024,"Q12STGBS.A (P12STGBS.A in the data); orange in Clusters LATINO; added 2026-10-26"
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Eurobarometer,sd18a,Special EB Gender Stereotypes (2024),"SD18a; orange in Clusters Euro (2024 column); added 2026-10-26"
 Participation,Political interest,Interest in politics,Arab Barometer,Q404,Wave 8 (2024),
 Participation,Political interest,Interest in politics,Afrobarometer,Q8,Round 9 (2023),
 Participation,Political interest,Interest in politics,Asian Barometer,q47,Wave 6 (2021-2023),
