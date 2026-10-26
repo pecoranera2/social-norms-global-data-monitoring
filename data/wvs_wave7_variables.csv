@@ -21,14 +21,14 @@
 "Social and gender norms","Family, sexuality and morality","Homosexual couples are as good parents as other couples","D081","Homosexual couples are as good parents as other couples","No","",80761,57
 "Trust","Interpersonal trust","Most people can be trusted","A165","Most people can be trusted","Yes","",95883,66
 "Trust","Interpersonal trust","Trust people you know personally","G007_33_B","Trust: People you know personally (B)","Yes","",96635,66
-"Trust","Interpersonal trust","Trust your family","D001_B","How much do you trust your family (4-point scale)","No","",96888,66
-"Trust","Interpersonal trust","Trust your neighbourhood","G007_18_B","Trust: Your neighborhood (B)","No","",96393,66
-"Trust","Interpersonal trust","Trust people you meet for the first time","G007_34_B","Trust: People you meet for the first time (B)","No","",95859,66
+"Trust","Interpersonal trust","Trust your family","D001_B","How much do you trust your family (4-point scale)","Yes","Also Afro Q86B, Asian q24 (from 2026-10-26)",96888,66
+"Trust","Interpersonal trust","Trust your neighbourhood","G007_18_B","Trust: Your neighborhood (B)","Yes","Also Afro Q86C, Asian q25 (from 2026-10-26)",96393,66
+"Trust","Interpersonal trust","Trust people you meet for the first time","G007_34_B","Trust: People you meet for the first time (B)","Yes","Also Asian q27 (from 2026-10-26)",95859,66
 "Trust","Trust in institutions","Trust in the national government","E069_11","Confidence: The Government","Yes","Also Latinobarometro Q14ST.E (from 2026-10-22)",94083,65
-"Trust","Trust in institutions","Trust in parliament","E069_07","Confidence: Parliament","No","",93741,66
-"Trust","Trust in institutions","Trust in political parties","E069_12","Confidence: The Political Parties","No","",93915,66
-"Trust","Trust in institutions","Trust in the police","E069_06","Confidence: The Police","No","",94808,65
-"Trust","Trust in institutions","Trust in the courts","E069_17","Confidence: Justice System/Courts","No","",93709,65
+"Trust","Trust in institutions","Trust in parliament","E069_07","Confidence: Parliament","Yes","Also Arab Q201A_3, Afro Q37B, Asian q11, Latino P14ST.D (from 2026-10-26)",93741,66
+"Trust","Trust in institutions","Trust in political parties","E069_12","Confidence: The Political Parties","Yes","Also Asian q10, Latino P14ST.G (from 2026-10-26)",93915,66
+"Trust","Trust in institutions","Trust in the police","E069_06","Confidence: The Police","Yes","Also Arab Q201B_4, Afro Q37G, Asian q14, Latino P14STGBS.B (from 2026-10-26)",94808,65
+"Trust","Trust in institutions","Trust in the courts","E069_17","Confidence: Justice System/Courts","Yes","Also Arab Q201A_2, Afro Q37I, Asian q8, Latino P14ST.F (from 2026-10-26)",93709,65
 "Trust","Trust in institutions","Trust in the women's movement","E069_15","Confidence: The Women's Movement","No","",88635,66
 "Participation","Political interest","Interest in politics","E023","Interest in politics","Yes","",96489,66
 "Participation","Political action","Votes in national elections","E264","Vote in elections: National level","No","WVS 7 Q222 (always / usually / never); renamed 2026-10-22 (was matched to Asian q33)",91808,64
