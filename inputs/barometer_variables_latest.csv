@@ -88,6 +88,8 @@ Trust,Trust in institutions,Trust in local government,Asian Barometer,q15,Wave 6
 Trust,Trust in institutions,Trust in the national government,Latinobarometro,p14st_e,2024,"Q14ST.E 'The National Government' (P14ST.E in the data); workbook labels it local government; renamed 2026-10-22"
 Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Latinobarometro,p12stgbs_a,2024,"Q12STGBS.A (P12STGBS.A in the data); orange in Clusters LATINO; added 2026-10-26"
 Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Eurobarometer,sd18a,Special EB Gender Stereotypes (2024),"SD18a; orange in Clusters Euro (2024 column); added 2026-10-26"
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Afrobarometer,Q31,Round 9 (2023),"Extra answer option: country is not a democracy; added 2026-10-26 (Natalia)"
+Trust,Satisfaction with democracy,Satisfied with the way democracy works in the country,Asian Barometer,q90,Wave 6 (2021-2023),"Added 2026-10-26 (Natalia)"
 Participation,Political interest,Interest in politics,Arab Barometer,Q404,Wave 8 (2024),
 Participation,Political interest,Interest in politics,Afrobarometer,Q8,Round 9 (2023),
 Participation,Political interest,Interest in politics,Asian Barometer,q47,Wave 6 (2021-2023),
