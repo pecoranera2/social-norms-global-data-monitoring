@@ -175,6 +175,10 @@ def overview_page():
     st.markdown(f'<div class="stats" style="grid-template-columns:repeat(auto-fill,minmax(min(240px,100%),1fr))">{tiles}</div>',
                 unsafe_allow_html=True)
 
+    st.divider()
+    st.subheader("Notes")
+    st.markdown(NOTES)
+
 
 def clusters_page():
     st.header("Variables by cluster")
@@ -225,21 +229,16 @@ def clusters_page():
         st.markdown("".join(parts), unsafe_allow_html=True)
 
 
-def notes_page():
-    st.header("Notes")
-    st.markdown(
-        """
+# Shown at the end of the Overview page.
+NOTES = """
 - **Latest round only.** World Values Survey wave 7 (2017-2023); Arab Barometer wave 8 (2024); Afrobarometer
   round 9 (2023); Asian Barometer wave 6 (2021-2023); Latinobarómetro 2024; Eurobarometer: Special EB on gender
   stereotypes (2024) and Special EB on discrimination (2023).
-- **Matching** is by question wording; some matches are close rather than identical (for example the Asian
-  Barometer item on women in politics).
-        """
-    )
+- **Matching** is by question wording; some matches are close rather than identical.
+"""
 
 
 st.navigation([
     st.Page(overview_page, title="Overview", url_path="overview", default=True),
     st.Page(clusters_page, title="Variables by cluster", url_path="clusters"),
-    st.Page(notes_page, title="Notes", url_path="notes"),
 ]).run()
